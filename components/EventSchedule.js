@@ -1797,7 +1797,7 @@ export const EventSchedule2 = () => {
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
                             <Link href="/schedule-list">
-                              Kelimontos DJ Party 2019
+                              ISSB Workshop: IFRS S1 & S2 in Practice: Building Resilient and Transparent Sustainability Reports
                             </Link>
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
