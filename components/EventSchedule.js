@@ -982,7 +982,7 @@ export const EventSchedule2 = () => {
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
                             <Link href="/schedule-list">
-                              Kelimontos DJ Party 2019
+                              Event
                             </Link>
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
@@ -1024,7 +1024,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1110,7 +1110,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1198,7 +1198,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1297,7 +1297,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1383,7 +1383,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1469,7 +1469,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1568,7 +1568,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1654,7 +1654,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1740,7 +1740,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1839,7 +1839,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -1925,7 +1925,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>
@@ -2013,7 +2013,7 @@ export const EventSchedule2 = () => {
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
-                          Buy Ticket
+                          Reserve Your Seat
                         </Link>
                       </div>
                     </div>

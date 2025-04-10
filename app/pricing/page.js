@@ -61,7 +61,7 @@ const page = () => {
                   </ul>
                   <div className="pricing-two__btn-box">
                     <Link href="/pricing" className="pricing-two__btn">
-                      Buy Ticket
+                      Reserve Your Seat
                     </Link>
                   </div>
                   <div className="pricing-two__shape-1">
@@ -125,7 +125,7 @@ const page = () => {
                   </ul>
                   <div className="pricing-two__btn-box">
                     <Link href="/pricing" className="pricing-two__btn">
-                      Buy Ticket
+                    Reserve Your Seat
                     </Link>
                   </div>
                   <div className="pricing-two__shape-1">
@@ -189,7 +189,7 @@ const page = () => {
                   </ul>
                   <div className="pricing-two__btn-box">
                     <Link href="/pricing" className="pricing-two__btn">
-                      Buy Ticket
+                      Reserve Your Seat
                     </Link>
                   </div>
                   <div className="pricing-two__shape-1">
