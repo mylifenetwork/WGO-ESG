@@ -80,17 +80,6 @@ const page = () => {
                   >
                     <div className="gallery-two__single">
                       <div className="gallery-two__img">
-                        <img src="assets/images/logos/hkex.png" alt="" />
-                      </div>
-                    </div>
-                  </div>
-                  {/*Project Three Single End*/}
-                  {/*Project Three Single Start*/}
-                  <div
-                    className="col-xl-4 col-lg-4 col-md-4 col-sm-6"
-                  >
-                    <div className="gallery-two__single">
-                      <div className="gallery-two__img">
                         <img src="assets/images/logos/cyberport.png" alt="" />
                       </div>
                     </div>
