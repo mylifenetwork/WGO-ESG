@@ -1020,7 +1020,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1106,7 +1106,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1194,7 +1194,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1293,7 +1293,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1379,7 +1379,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1465,7 +1465,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1564,7 +1564,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1650,7 +1650,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1736,7 +1736,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1835,7 +1835,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -1921,7 +1921,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
@@ -2009,7 +2009,7 @@ export const EventSchedule2 = () => {
                       </div>
                       <div className="events-three__btn-box">
                         <Link
-                          href="contact"
+                          href="https://esgxchangehk.com/register"
                           className="about-three__btn thm-btn-two"
                         >
                           <span className="fas fa-arrow-circle-right" />
