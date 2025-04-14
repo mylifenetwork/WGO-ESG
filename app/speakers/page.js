@@ -17,7 +17,7 @@ const page = () => {
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
-                    <a href=""><img src="assets/images/speakers/william_yu.png" style={{height: '418px'}} alt /></a>
+                    <a href=""><img src="assets/images/speakers/william_yu.jpg" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
@@ -25,7 +25,8 @@ const page = () => {
                   <h3>
                     <Link href="">Dr. William Yu</Link>
                   </h3>
-                  <p>Founder and Chief Executive Officer, WGO</p>
+                  <p>Founder and Chief Executive Officer,</p>
+                  <p>World Green Organization</p>
                 </div>
               </div>
             </div>
@@ -46,7 +47,8 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Dennis Wan</Link>
                   </h3>
-                  <p>Head of Capital Markets (APAC), CDP</p>
+                  <p>Head of Capital Markets (APAC),</p>
+                  <p>CDP</p>
                 </div>
               </div>
             </div>
@@ -67,7 +69,8 @@ const page = () => {
                   <h3>
                     <Link href="">Dr. Guo Peiyuan</Link>
                   </h3>
-                  <p>Chairman, SynTao Green Finance</p>
+                  <p>Chairman,</p>
+                  <p>SynTao Green Finance</p>
                 </div>
               </div>
             </div>
@@ -88,7 +91,8 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Cheung Kin Sang</Link>
                   </h3>
-                  <p>Chairman, Board of Governors, WGO</p>
+                  <p>Chairman, Board of Governors,</p>
+                  <p>World Green Organization</p>
                 </div>
               </div>
             </div>
@@ -109,7 +113,8 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Samson Leong</Link>
                   </h3>
-                  <p>Senior Manager, Intertek Hong Kong</p>
+                  <p>Senior Manager,</p>
+                  <p>Intertek Hong Kong</p>
                 </div>
               </div>
             </div>
