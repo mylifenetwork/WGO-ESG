@@ -12,6 +12,7 @@ import Link from "next/link";
 import Counter from "@/components/Counter";
 import PageBanner from "@/components/PageBanner";
 import Brand from "@/components/Brand";
+import { alignProperty } from "@mui/material/styles/cssUtils";
 const CountDown = dynamic(() => import("@/components/CountDown"), {
   ssr: false,
 });
@@ -286,36 +287,38 @@ collaborations, staying ahead of global ESG trends, and achieving measurable bus
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
-                    <a href=""><img src="assets/images/speakers/samson_leong.jpeg" style={{height: '418px'}} alt /></a>
+                    <a href=""><img src="assets/images/speakers/allinnettes_go_adigue.jpg" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
                 <div className="speaker-page__content">
                   <h3>
-                    <Link href="">Mr. Samson Leong</Link>
+                    <Link href="">Dr. Allinnettes Go Adigue</Link>
                   </h3>
-                  <p>Senior Manager, Intertek Hong Kong</p>
+                  <p>Head of ASEAN Regional Hub,</p>
+                  <p>Global Reporting Initiative</p>
                 </div>
               </div>
             </div>
             {/*Speaker Page Single End*/}
-            {/*Speaker Page Single Start*/}
-            <div
+           {/*Speaker Page Single Start*/}
+           <div
               className="col-xl-4 col-lg-4 wow fadeInLeft"
               data-wow-delay="100ms"
             >
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
-                    <a href=""><img src="assets/images/speakers/guo_peiyuan.jpg" style={{height: '418px'}} alt /></a>
+                    <a href=""><img src="assets/images/speakers/candice_dott.jpg" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
                 <div className="speaker-page__content">
                   <h3>
-                    <Link href="">Dr. Guo Peiyuan</Link>
+                    <Link href="">Ms. Candice Dott</Link>
                   </h3>
-                  <p>Chairman, SynTao Green Finance</p>
+                  <p>Director of Market Engagement,</p>
+                  <p>TNFD</p>
                 </div>
               </div>
             </div>
@@ -336,12 +339,85 @@ collaborations, staying ahead of global ESG trends, and achieving measurable bus
                   <h3>
                     <Link href="">Mr. Dennis Wan</Link>
                   </h3>
-                  <p>Head of Capital Markets (APAC), CDP</p>
+                  <p>Head of Capital Markets (APAC),</p>
+                  <p>CDP</p>
                 </div>
               </div>
             </div>
             {/*Speaker Page Single End*/}
-            
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/guo_peiyuan.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Dr. Guo Peiyuan</Link>
+                  </h3>
+                  <p>Chairman,</p>
+                  <p>SynTao Green Finance</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/sun_ta_chien.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Dr. Sun Ta Chien</Link>
+                  </h3>
+                  <p>Executive Director,</p>
+                  <p>Digital Domain</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/william_yu.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Dr. William Yu</Link>
+                  </h3>
+                  <p>Founder & Chief Executive Officer,</p>
+                  <p>World Green Organization</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+        
+            <div className="about-two__btn-box" style={{textAlign:'center'}}>
+                    <Link href="https://esgxchangehk.com/speakers" className="about-two__btn thm-btn-two">
+                      <span className="fas fa-arrow-circle-right" />
+                      Explore All Speakers
+                    </Link>
+                  </div>
           </div>
         </div>
       </section>

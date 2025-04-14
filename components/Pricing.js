@@ -98,7 +98,7 @@ const Pricing = () => {
                               className="pricing-one__main-tab-price-btn thm-btn-two"
                             >
                               <span className="fas fa-arrow-circle-right" />
-                              Buy Ticket
+                              Reserve Your Seat
                             </Link>
                           </div>
                         </div>
@@ -210,7 +210,7 @@ const Pricing = () => {
                               className="pricing-one__main-tab-price-btn thm-btn-two"
                             >
                               <span className="fas fa-arrow-circle-right" />
-                              Buy Ticket
+                              Reserve Your Seat
                             </Link>
                           </div>
                         </div>
@@ -322,7 +322,7 @@ const Pricing = () => {
                               className="pricing-one__main-tab-price-btn thm-btn-two"
                             >
                               <span className="fas fa-arrow-circle-right" />
-                              Buy Ticket
+                              Reserve Your Seat
                             </Link>
                           </div>
                         </div>
@@ -462,7 +462,7 @@ export const Pricing2 = () => {
                 </ul>
                 <div className="pricing-two__btn-box">
                   <Link href="/pricing" className="pricing-two__btn">
-                    Buy Ticket
+                    Reserve Your Seat
                   </Link>
                 </div>
                 <div className="pricing-two__shape-1">
@@ -526,7 +526,7 @@ export const Pricing2 = () => {
                 </ul>
                 <div className="pricing-two__btn-box">
                   <Link href="/pricing" className="pricing-two__btn">
-                    Buy Ticket
+                    Reserve Your Seat
                   </Link>
                 </div>
                 <div className="pricing-two__shape-1">
@@ -590,7 +590,7 @@ export const Pricing2 = () => {
                 </ul>
                 <div className="pricing-two__btn-box">
                   <Link href="/pricing" className="pricing-two__btn">
-                    Buy Ticket
+                    Reserve Your Seat
                   </Link>
                 </div>
                 <div className="pricing-two__shape-1">
