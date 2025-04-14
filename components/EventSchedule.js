@@ -942,37 +942,53 @@ export const EventSchedule2 = () => {
               <div className="events-three__main-content-box">
                 <ul className="list-unstyled events-three__content-list">
                   <li className="events-three__content-single">
+                    
                     <div className="events-three__content-left">
-                      <div className="events-three__content-img">
-                        <img
-                          src="assets/images/resources/events-three-content-img-1-1.jpg"
-                          alt=""
-                        />
-                        <div className="events-three__video-link">
-                          <a
-                            href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
-                            className="video-popup"
-                          >
-                            <div className="events-three__video-icon">
-                              <span className="icon-play" />
-                              <i className="ripple" />
-                            </div>
-                          </a>
-                        </div>
-                      </div>
                       <div className="events-three__content-user">
                         <div className="events-three__content-user-img">
                           <img
-                            src="assets/images/resources/events-three-content-user-img-1-1.jpg"
+                            src="assets/images/speakers/sangmin_nam.jpeg"
                             alt=""
                           />
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                            John Singh
+                            Dr. Sangmin Nam
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                            UX Design
+                            Director, Environment and Development Division, United Nations ESCAP
+                          </p>
+                        </div>
+                        <div className="events-three__content-user">
+                        </div>
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/kin_sang_cheung.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                           Mr. Kin Sang Cheung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chairman, World Green Organisation
+                          </p>
+                        </div>
+                        <div className="events-three__content-user">
+                        </div>
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/william_yu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                           Dr. William Yu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          CEO, World Green Organisation
                           </p>
                         </div>
                       </div>
@@ -982,24 +998,13 @@ export const EventSchedule2 = () => {
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
                             <Link href="/schedule-list">
-                              Event
+                              Opening Ceremony & Keynote Address
                             </Link>
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
-                              <div className="icon">
-                                <span className="icon-coffee-cup" />
-                              </div>
                               <div className="text">
-                                <p>Coffee &amp; Snacks</p>
-                              </div>
-                            </li>
-                            <li>
-                              <div className="icon">
-                                <span className="icon-youtube" />
-                              </div>
-                              <div className="text">
-                                <p>Video Streming</p>
+                                <p>Language: English</p>
                               </div>
                             </li>
                           </ul>
