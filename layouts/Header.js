@@ -90,6 +90,9 @@ const Menus = () => {
       <li>
         <Link href="/">Tech Ventures </Link>
       </li>*/}
+      <li>
+        <Link href="/summit">Tech Ventures</Link>
+      </li>
       <li className="dropdown">
         <Link href="/">Past Editions</Link>
         <ul>
@@ -363,8 +366,8 @@ const Header2 = () => {
                   <a href="/">
                     <img src="assets/images/resources/header.png" alt="" width='80%' />
                     </a>
+                    <Social/>
                 </div>
-                <Social/>
               </div>
               <div className="main-menu__right">
                 <div className="main-menu__main-menu-box">
