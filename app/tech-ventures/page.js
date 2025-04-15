@@ -109,23 +109,24 @@ const page = () => {
       <img src='assets/images/techventures/7.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/8.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/9.png' style={{width: '100vw'}}/>
-      <div style={{display: 'flex', flexDirection:'row', alignItems: 'center'}}>
-        <img src='assets/images/techventures/10.png' style={{width: '40vw'}}/>
-        <div style={{width: '60vw', backgroundColor: 'white'}}>
+        <div style={{width: '100vw', backgroundColor: 'white'}}>
           <form
-            action="https://docs.google.com/forms/d/e/1FAIpQLSdXER8Pxg830D9izEsgWDjRTSUqea_oMhjzsY2fuxE4u0_k0g/formResponse"
+            action="https://docs.google.com/forms/d/e/1FAIpQLSfFQQsySsjK29WXzEt33jc3rAlQpU9Rusg0DsHE2UZdUSKQiA/formResponse"
             noValidate="novalidate"
           >
             <div className="row" style={{padding: '0% 20%'}}>
+                <h2 className="section-title__title col-xl-12 col-lg-12" style={{padding: '5% 0%'}}>
+                  <span>Apply</span> Now
+                </h2>
               <div className="col-xl-6 col-lg-6">
                 <div>
                   <input
                     type="text"
-                    name="entry.2141826359"
+                    name="entry.1882068186"
                     placeholder="First Name *"
                     onChange={handleChange}
                     required
-                    style={{width: '100%', margin:'5%', padding: '5%'}}
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
                   />
                 </div>
               </div>
@@ -133,23 +134,107 @@ const page = () => {
                 <div >
                   <input
                     type="text"
-                    name="entry.1092943434"
+                    name="entry.176518820"
                     placeholder="Last Name *"
                     onChange={handleChange}
                     required
-                    style={{width: '100%', margin:'5%', padding: '5%'}}
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
                   />
                 </div>
               </div>
-              <div className="col-xl-12 col-lg-12">
+              <div className="col-xl-6 col-lg-6">
                 <div >
                   <input
                     type="text"
-                    name="entry.1272460605"
-                    placeholder="Email *"
+                    name="entry.1168119921"
+                    placeholder="Business Email *"
                     onChange={handleChange}
                     required
-                    style={{width: '100%', margin:'5% 2.5%', padding: '2.5%'}}
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.775233256"
+                    placeholder="Phone Number *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.1468162259"
+                    placeholder="Company Name *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.23277139"
+                    placeholder="Job Title *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.23277139"
+                    placeholder="Job Title *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.471369365"
+                    placeholder="Year of Establishment *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.1216584176"
+                    placeholder="Team/ Organisation Size *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.754896926"
+                    placeholder="URL of Website *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
                   />
                 </div>
               </div>
@@ -157,29 +242,40 @@ const page = () => {
                 <div >
                   <textarea
                     rows="4"
-                    name="entry.709366536"
-                    placeholder="Message *"
+                    name="entry.1073186179"
+                    placeholder="Brief Overview of Product/Service (Max. 500 words) *"
                     onChange={handleChange}
                     required
-                    style={{width: '100%', margin:'5% 2.5%', padding: '2.5%'}}
+                    style={{width: '100%', margin:'1.25% 0.625%', padding: '1.25%'}}
                   />
                 </div>
               </div>
-              <div className="contact-two__btn-box">
+              <div className="col-xl-12 col-lg-12">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.1484903520"
+                    placeholder="URL of Organisation Introduction Deck *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'1.25% 0.625%', padding: '1.25%'}}
+                  />
+                </div>
+              </div>
+              <div className="contact-two__btn-box" style={{textAlign: 'center'}}>
                 <button
                   type="submit"
                   className="thm-btn contact-two__btn"
                   disabled={isButtonDisabled}
-                  style={{width: '100%', margin:'5% 2.5%'}}
+                  style={{width: '100%', margin:'2.5% 1.25%', textAlign: 'center'}}
                 >
-                  Send
+                  Apply
                 </button>
-                { isButtonDisabled ? <div style={{padding: '1%'}}> (Complete all fields to submit) </div> : <p></p>}
+                { isButtonDisabled ? <div style={{padding: '1%'}}> (Complete all fields to apply) </div> : <p></p>}
               </div>
             </div>
           </form>
         </div>
-      </div>
     </EnvensLayouts>
   );
 };
