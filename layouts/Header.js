@@ -366,7 +366,7 @@ const Header2 = () => {
                   <a href="/">
                     <img src="assets/images/resources/header.png" alt="" width='80%' />
                     </a>
-                    <Social/>
+                    {/*<Social/>*/}
                 </div>
               </div>
               <div className="main-menu__right">
