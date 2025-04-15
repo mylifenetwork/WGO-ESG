@@ -91,7 +91,7 @@ const Menus = () => {
         <Link href="/">Tech Ventures </Link>
       </li>*/}
       <li>
-        <Link href="/summit">Tech Ventures</Link>
+        <Link href="/tech-ventures">Tech Ventures</Link>
       </li>
       <li className="dropdown">
         <Link href="/">Past Editions</Link>
@@ -268,7 +268,7 @@ const MobileMenu = ({ mobileToggle, setMobileToggle }) => {
               </ul>
             </li>
             <li className="current">
-              <Link href="/">
+              <Link href="/tech-ventures">
                 Tech Ventures{" "}
               </Link>
             </li>

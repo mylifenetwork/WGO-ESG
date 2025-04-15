@@ -15,28 +15,11 @@ const page = () => {
   const [selectedOptions, setSelectedOptions] = useState([]);
   const [otherOption, setOtherOption] = useState('');
   const [form, setForm] = useState({
-    'entry.272234028': '',
-    'entry.353530242': '',
-    'entry.1891090765': '',
-    'entry.1408648040': '',
-    'entry.1426208417': '',
-    'entry.1784453667': '',
-    'entry.1694484754': '',
-    'entry.856495849': '',
-    'entry.1096684556': '',
-    'entry.1383365476': '',
-    'entry.1350208563': '',
+    'entry.2141826359': '',
+    'entry.1092943434': '',
+    'entry.1272460605': '',
+    'entry.709366536': '',
   })
-
-  const options = [
-    { label: "WGO's Social Media (e.g., Facebook, LinkedIn, Instagram)", value: 'entry.1128947227' },
-    { label: 'Online Advertisements (e.g., banners, pop-ups)', value: 'entry.1128947227' },
-    { label: 'Street Displays (e.g., digital billboards, posters)', value: 'entry.1128947227' },
-    { label: 'Sharing from friends or colleagues', value: 'entry.1128947227' },
-    { label: 'News or media coverage', value: 'entry.1128947227' },
-    { label: 'Email newsletter', value: 'entry.1128947227' },
-    { label: 'Others', value: 'other' },
-  ];
 
   const handleSelectChange = (event) => {
     const value = event.target.value;
@@ -126,47 +109,72 @@ const page = () => {
       <img src='assets/images/techventures/7.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/8.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/9.png' style={{width: '100vw'}}/>
-      <div style={{display: 'flex', flexDirection:'row'}}>
+      <div style={{display: 'flex', flexDirection:'row', alignItems: 'center'}}>
         <img src='assets/images/techventures/10.png' style={{width: '40vw'}}/>
-        <div className="contact-two__form-box" style={{width: '60vw', backgroundColor: 'white'}}>
+        <div style={{width: '60vw', backgroundColor: 'white'}}>
           <form
-            className="contact-form-validated contact-two__form"
-            // action="https://docs.google.com/forms/d/e/1FAIpQLSdKWygX3RC-P_zrdp5j6r5KE9oSC0cDNfZJWK4Kn5Qo9zaOFg/formResponse"
+            action="https://docs.google.com/forms/d/e/1FAIpQLSdXER8Pxg830D9izEsgWDjRTSUqea_oMhjzsY2fuxE4u0_k0g/formResponse"
             noValidate="novalidate"
           >
-            <div className="row">
+            <div className="row" style={{padding: '0% 20%'}}>
               <div className="col-xl-6 col-lg-6">
-                <div className="contact-two__input-box">
+                <div>
                   <input
                     type="text"
-                    name="entry.272234028"
+                    name="entry.2141826359"
                     placeholder="First Name *"
                     onChange={handleChange}
                     required
+                    style={{width: '100%', margin:'5%', padding: '5%'}}
                   />
                 </div>
               </div>
               <div className="col-xl-6 col-lg-6">
-                <div className="contact-two__input-box">
+                <div >
                   <input
                     type="text"
-                    name="entry.272234028"
+                    name="entry.1092943434"
                     placeholder="Last Name *"
                     onChange={handleChange}
                     required
+                    style={{width: '100%', margin:'5%', padding: '5%'}}
                   />
                 </div>
               </div>
               <div className="col-xl-12 col-lg-12">
-                <div className="contact-two__input-box">
+                <div >
                   <input
                     type="text"
-                    name="entry.272234028"
+                    name="entry.1272460605"
                     placeholder="Email *"
                     onChange={handleChange}
                     required
+                    style={{width: '100%', margin:'5% 2.5%', padding: '2.5%'}}
                   />
                 </div>
+              </div>
+              <div className="col-xl-12 col-lg-12">
+                <div >
+                  <textarea
+                    rows="4"
+                    name="entry.709366536"
+                    placeholder="Message *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'5% 2.5%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
+              <div className="contact-two__btn-box">
+                <button
+                  type="submit"
+                  className="thm-btn contact-two__btn"
+                  disabled={isButtonDisabled}
+                  style={{width: '100%', margin:'5% 2.5%'}}
+                >
+                  Send
+                </button>
+                { isButtonDisabled ? <div style={{padding: '1%'}}> (Complete all fields to submit) </div> : <p></p>}
               </div>
             </div>
           </form>
