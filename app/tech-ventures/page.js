@@ -201,18 +201,6 @@ const page = () => {
                 <div >
                   <input
                     type="text"
-                    name="entry.23277139"
-                    placeholder="Job Title *"
-                    onChange={handleChange}
-                    required
-                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
-                  />
-                </div>
-              </div>
-              <div className="col-xl-6 col-lg-6">
-                <div >
-                  <input
-                    type="text"
                     name="entry.471369365"
                     placeholder="Year of Establishment *"
                     onChange={handleChange}
@@ -245,24 +233,24 @@ const page = () => {
                   />
                 </div>
               </div>
+              <div className="col-xl-6 col-lg-6">
+                <div >
+                  <input
+                    type="text"
+                    name="entry.1484903520"
+                    placeholder="URL of Organisation Introduction Deck *"
+                    onChange={handleChange}
+                    required
+                    style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
+                  />
+                </div>
+              </div>
               <div className="col-xl-12 col-lg-12">
                 <div >
                   <textarea
                     rows="4"
                     name="entry.1073186179"
                     placeholder="Brief Overview of Product/Service (Max. 500 words) *"
-                    onChange={handleChange}
-                    required
-                    style={{width: '100%', margin:'1.25% 0.625%', padding: '1.25%'}}
-                  />
-                </div>
-              </div>
-              <div className="col-xl-12 col-lg-12">
-                <div >
-                  <input
-                    type="text"
-                    name="entry.1484903520"
-                    placeholder="URL of Organisation Introduction Deck *"
                     onChange={handleChange}
                     required
                     style={{width: '100%', margin:'1.25% 0.625%', padding: '1.25%'}}
