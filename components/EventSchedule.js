@@ -942,64 +942,12 @@ export const EventSchedule2 = () => {
               <div className="events-three__main-content-box">
                 <ul className="list-unstyled events-three__content-list">
                   <li className="events-three__content-single">
-                    
-                    <div className="events-three__content-left">
-                      <div className="events-three__content-user">
-                        <div className="events-three__content-user-img">
-                          <img
-                            src="assets/images/speakers/sangmin_nam.jpeg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                            Dr. Sangmin Nam
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                            Director, Environment and Development Division, United Nations ESCAP
-                          </p>
-                        </div>
-                        <div className="events-three__content-user">
-                        </div>
-                        <div className="events-three__content-user-img">
-                          <img
-                            src="assets/images/speakers/kin_sang_cheung.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                           Mr. Kin Sang Cheung
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                          Chairman, World Green Organisation
-                          </p>
-                        </div>
-                        <div className="events-three__content-user">
-                        </div>
-                        <div className="events-three__content-user-img">
-                          <img
-                            src="assets/images/speakers/william_yu.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                           Dr. William Yu
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                          CEO, World Green Organisation
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                  {/* Session Title */}
                     <div className="events-three__content-right">
                       <div className="events-three__content-right-content">
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
-                            <Link href="/schedule-list">
                               Opening Ceremony & Keynote Address
-                            </Link>
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
@@ -1023,15 +971,59 @@ export const EventSchedule2 = () => {
                           </div>
                         </div>
                       </div>
-                      <div className="events-three__btn-box">
-                        <Link
-                          href="https://esgxchangehk.com/register"
-                          className="about-three__btn thm-btn-two"
-                        >
-                          <span className="fas fa-arrow-circle-right" />
-                          Reserve Your Seat
-                        </Link>
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-4 col-lg-4">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/sangmin_nam.jpeg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                            Dr. Sangmin Nam
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                            Director, Environment and Development Division, United Nations ESCAP
+                          </p>
+                        </div>
                       </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-4 col-lg-4">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/kin_sang_cheung.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                           Mr. Kin Sang Cheung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chairman, World Green Organisation
+                          </p>
+                        </div>
+                      </div>
+                      <div className="events-three__content-user col-xl-4 col-lg-4">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/william_yu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                           Dr. William Yu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          CEO, World Green Organisation
+                          </p>
+                        </div>
+                      </div>
+                    </div>
                     </div>
                   </li>
                   <li className="events-three__content-single">
@@ -1212,6 +1204,7 @@ export const EventSchedule2 = () => {
               </div>
             </div>
             {/*tab*/}
+
             {/*tab*/}
             <div
               id="2ndday"

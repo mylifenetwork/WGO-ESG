@@ -9522,7 +9522,7 @@ a.team-two__social-three {
   position: relative;
   display: flex;
   align-items: center;
-  margin-left: 50px;
+  margin-top: 3%;
 }
 
 .events-three__content-user-img {
@@ -9569,9 +9569,9 @@ a.team-two__social-three {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   flex-wrap: wrap;
-  gap: 45px;
-  margin-right: 90px;
+  width: 100%
 }
 
 .events-three__content-right-content:before {
