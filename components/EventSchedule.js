@@ -941,8 +941,9 @@ export const EventSchedule2 = () => {
             >
               <div className="events-three__main-content-box">
                 <ul className="list-unstyled events-three__content-list">
+                  {/* Each 'li' tag is one box  */}
                   <li className="events-three__content-single">
-                  {/* Session Title */}
+                  {/* Session Title and timing row */}
                     <div className="events-three__content-right">
                       <div className="events-three__content-right-content">
                         <div className="events-three__content-right-content-left">
@@ -971,6 +972,7 @@ export const EventSchedule2 = () => {
                           </div>
                         </div>
                       </div>
+                      {/* Speakers go here */}
                       <div className="events-three__content-left row">
                       {/* Speaker 1 Start*/}
                       <div className="events-three__content-user col-xl-4 col-lg-4">
@@ -1007,6 +1009,8 @@ export const EventSchedule2 = () => {
                           </p>
                         </div>
                       </div>
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
                       <div className="events-three__content-user col-xl-4 col-lg-4">
                         <div className="events-three__content-user-img">
                           <img
@@ -1023,6 +1027,7 @@ export const EventSchedule2 = () => {
                           </p>
                         </div>
                       </div>
+                      {/* Speaker 3 End*/}
                     </div>
                     </div>
                   </li>
