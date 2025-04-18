@@ -23,7 +23,7 @@ const page = () => {
                 </div>
                 <div className="speaker-page__content">
                   <h3>
-                    <Link href="">Dr. Allinnettes Go Adigue</Link>
+                    <Link href="https://esgxchangehk.com/speaker-single-dr-allinnettes-go-adigue">Dr. Allinnettes Go Adigue</Link>
                   </h3>
                   <p>Head of ASEAN Regional Hub,</p>
                   <p>Global Reporting Initiative</p>
