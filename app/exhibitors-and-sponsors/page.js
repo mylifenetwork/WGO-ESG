@@ -121,7 +121,7 @@ const page = () => {
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'20%'}}>
                       Gold <br/>
-                      <img src="" alt="" style={{maxWidth:'500px', marginTop:'7%'}}/>
+                      <img src="assets/images/sponsors/towngas.png" alt="" style={{maxWidth:'35%', marginTop:'7%'}}/>
                     </h3>
                   </div>
 

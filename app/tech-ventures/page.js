@@ -238,7 +238,7 @@ const page = () => {
                   <input
                     type="text"
                     name="entry.1484903520"
-                    placeholder="URL of Organisation Introduction Deck *"
+                    placeholder="URL to Company Profile Deck (Drive/Dropbox) *"
                     onChange={handleChange}
                     required
                     style={{width: '100%', margin:'2.5% 1.25%', padding: '2.5%'}}
