@@ -107,8 +107,8 @@ const page = () => {
       
       <PageBanner pageName={"Registration"} />
       */}
-      <img src='assets/images/techventures/1.png' style={{width: '100vw', paddingTop: '100px'}}/>
-      <img src='assets/images/techventures/2.png' style={{width: '100vw'}}/>
+      <img src='assets/images/techventures/new1.1.png' style={{width: '100vw', paddingTop: '100px'}}/>
+      <img src='assets/images/techventures/new2.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/3.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/4.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/5.png' style={{width: '100vw'}}/>
