@@ -110,12 +110,12 @@ const page = () => {
       <img src='assets/images/techventures/new1.1.png' style={{width: '100vw', paddingTop: '100px'}}/>
       <img src='assets/images/techventures/new2.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/3.png' style={{width: '100vw'}}/>
-      <img src='assets/images/techventures/4.png' style={{width: '100vw'}}/>
-      <img src='assets/images/techventures/5.png' style={{width: '100vw'}}/>
+      <img src='assets/images/techventures/new4.png' style={{width: '100vw'}}/>
+      <img src='assets/images/techventures/new5.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/6.png' style={{width: '100vw'}}/>
-      <img src='assets/images/techventures/7.png' style={{width: '100vw'}}/>
+      <img src='assets/images/techventures/new7.png' style={{width: '100vw'}}/>
       <img src='assets/images/techventures/8.png' style={{width: '100vw'}}/>
-      <img src='assets/images/techventures/9.png' style={{width: '100vw'}}/>
+      <img src='assets/images/techventures/new9.png' style={{width: '100vw'}}/>
         <div style={{width: '100vw', backgroundColor: 'white'}}>
           <form
             action="https://docs.google.com/forms/d/e/1FAIpQLSfFQQsySsjK29WXzEt33jc3rAlQpU9Rusg0DsHE2UZdUSKQiA/formResponse"
