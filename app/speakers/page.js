@@ -25,7 +25,7 @@ const page = () => {
                   <h3>
                     <Link href="https://esgxchangehk.com/speaker-single-dr-allinnettes-go-adigue">Dr. Allinnettes Go Adigue</Link>
                   </h3>
-                  <p>Head of ASEAN Regional Hub,</p>
+                  <p>Head of ASEAN Regional Hub</p>
                   <p>Global Reporting Initiative</p>
                 </div>
               </div>
@@ -47,7 +47,7 @@ const page = () => {
                   <h3>
                     <Link href="">Ms. Candice Dott</Link>
                   </h3>
-                  <p>Director of Market Engagement,</p>
+                  <p>Director of Market Engagement</p>
                   <p>TNFD</p>
                 </div>
               </div>
@@ -69,8 +69,9 @@ const page = () => {
                   <h3>
                     <Link href="">Ms. Cloris Cai</Link>
                   </h3>
-                  <p>Sustainability Solutions Manager,</p>
-                  <p>Green Initiatives, Intertek China</p>
+                  <p>Sustainability Solutions Manager</p>
+                  <p>Green Initiatives</p>
+                  <p>Intertek China</p>
                 </div>
               </div>
             </div>
@@ -91,7 +92,7 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Dennis Wan</Link>
                   </h3>
-                  <p>Head of Capital Markets (APAC),</p>
+                  <p>Head of Capital Markets (APAC)</p>
                   <p>CDP</p>
                 </div>
               </div>
@@ -135,7 +136,7 @@ const page = () => {
                   <h3>
                     <Link href="">Dr. Guo Peiyuan</Link>
                   </h3>
-                  <p>Chairman,</p>
+                  <p>Chairman</p>
                   <p>SynTao Green Finance</p>
                 </div>
               </div>
@@ -157,7 +158,7 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Jean-Sébastien Jacquetin</Link>
                   </h3>
-                  <p>Managing Partner,</p>
+                  <p>Managing Partner</p>
                   <p>Cavendish Investment Corporation</p>
                 </div>
               </div>
@@ -179,7 +180,7 @@ const page = () => {
                   <h3>
                     <Link href="">Prof. Johnathan Lin</Link>
                   </h3>
-                  <p>General Partner,</p>
+                  <p>General Partner</p>
                   <p>Andra Capital</p>
                 </div>
               </div>
@@ -201,7 +202,7 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Kin Sang Cheung</Link>
                   </h3>
-                  <p>Chairman, Board of Governors,</p>
+                  <p>Chairman, Board of Governors</p>
                   <p>World Green Organisation</p>
                 </div>
               </div>
@@ -223,7 +224,8 @@ const page = () => {
                   <h3>
                     <Link href="">Ms. Mei Zi Tan</Link>
                   </h3>
-                  <p>Manager, International Research & Projects,</p>
+                  <p>Manager</p>
+                  <p>International Research & Projects</p>
                   <p>Carbon Market Institute (CMI)</p>
                 </div>
               </div>
@@ -245,7 +247,7 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Peng Feng</Link>
                   </h3>
-                  <p>Business Director,</p>
+                  <p>Business Director</p>
                   <p>Shanghai Environmental Energy Exchange</p>
                 </div>
               </div>
@@ -289,7 +291,7 @@ const page = () => {
                   <h3>
                     <Link href="">Mr. Samson Leong</Link>
                   </h3>
-                  <p>Senior Manager,</p>
+                  <p>Senior Manager</p>
                   <p>Intertek Hong Kong</p>
                 </div>
               </div>
@@ -311,7 +313,7 @@ const page = () => {
                   <h3>
                     <Link href="">Dr. Sun Ta Chien</Link>
                   </h3>
-                  <p>Executive Director,</p>
+                  <p>Executive Director</p>
                   <p>Digital Domain</p>
                 </div>
               </div>
@@ -333,7 +335,8 @@ const page = () => {
                   <h3>
                     <Link href="">Dr. Toa Charm</Link>
                   </h3>
-                  <p>Associate Professor, Practice in Innovation and Technology,</p>
+                  <p>Associate Professor</p>
+                  <p>Practice in Innovation and Technology</p>
                   <p>The Chinese University of Hong Kong</p>
                 </div>
               </div>
@@ -355,7 +358,7 @@ const page = () => {
                   <h3>
                     <Link href="">Dr. William Yu</Link>
                   </h3>
-                  <p>Founder & Chief Executive Officer,</p>
+                  <p>Founder & Chief Executive Officer</p>
                   <p>World Green Organization</p>
                 </div>
               </div>
