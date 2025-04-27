@@ -136,7 +136,7 @@ const page = () => {
                       <img src="assets/images/sponsors/guzhan.png" alt="" style={{width:'35%', margin: '5%', marginTop:'3%', transform:'scale(1.2)'}}/>
                       <img src="assets/images/sponsors/greenhubs.png" alt="" style={{width:'35%', margin: '5%', marginTop:'3%'}}/>
                       <br/>
-                      <img src="assets/images/sponsors/HPE_Synnex.jpg" alt="" style={{width:'35%', margin: '5%', marginTop:'-5%', transform:'scale(1.5)'}}/>
+                      <img src="assets/images/sponsors/HPE_Synnex.png" alt="" style={{width:'35%', margin: '5%', marginTop:'-5%', transform:'scale(1.5)'}}/>
                       <img src="assets/images/sponsors/kinsang.png" alt="" style={{width:'35%', margin: '5%', marginTop:'-5%', transform:'scale(1.1)'}}/>
                       <br/>
                       <img src="assets/images/sponsors/contex.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.2)'}}/>
