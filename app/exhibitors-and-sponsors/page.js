@@ -94,15 +94,21 @@ const page = () => {
                 <div className="row masonary-layout">
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'10%'}}>
-                      Supreme Diamond <br/>
+                      Supreme Diamond 
+                      <br/>
+                      <img src="assets/images/sponsors/boc_life.png" alt="" style={{maxWidth:'500px', marginTop:'7%'}}/>
                       <img src="assets/images/sponsors/crystal.jpeg" alt="" style={{maxWidth:'500px', marginTop:'7%'}}/>
                     </h3>
                   </div>
 
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                    <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'20%'}}>
-                      Double Diamond <br/>
-                      <img src="" alt="" style={{maxWidth:'500px', marginTop:'7%'}}/>
+                    <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'10%'}}>
+                      Double Diamond
+                      <br/>
+                      <img src="assets/images/sponsors/lifewood.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <img src="assets/images/sponsors/kings_flair.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%', transform:'scale(0.9)'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/A4CR.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(0.8)'}}/>
                     </h3>
                   </div>
 
@@ -115,14 +121,33 @@ const page = () => {
                       <br/>
                       <img src="assets/images/sponsors/intertek.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(0.8)'}}/>
                       <img src="assets/images/sponsors/swire.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/lasense.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%'}}/>
                     </h3>
                   </div>
 
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'20%'}}>
-                      Gold <br/>
-                      <img src="assets/images/sponsors/towngas.png" alt="" style={{maxWidth:'35%', marginTop:'7%'}}/>
-                    </h3>
+                      Gold 
+                      <br/>
+                      <img src="assets/images/sponsors/towngas.png" alt="" style={{width:'35%', margin: '5%', marginTop:'15%'}}/>
+                      <img src="assets/images/sponsors/cantabrigian.png" alt="" style={{width:'35%', margin: '5%', marginTop:'15%', transform:'scale(1.1)'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/guzhan.png" alt="" style={{width:'35%', margin: '5%', marginTop:'3%', transform:'scale(1.2)'}}/>
+                      <img src="assets/images/sponsors/greenhubs.png" alt="" style={{width:'35%', margin: '5%', marginTop:'3%'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/HPE_Synnex.jpg" alt="" style={{width:'35%', margin: '5%', marginTop:'-5%', transform:'scale(1.5)'}}/>
+                      <img src="assets/images/sponsors/kinsang.png" alt="" style={{width:'35%', margin: '5%', marginTop:'-5%', transform:'scale(1.1)'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/contex.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.2)'}}/>
+                      <img src="assets/images/sponsors/jibpool.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.0)'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/milliontech.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.2)'}}/>
+                      <img src="assets/images/sponsors/solution_expert.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.1)'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/auki.png" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.2)'}}/>
+                      <img src="assets/images/sponsors/visidr.webp" alt="" style={{width:'35%', margin: '5%', marginTop:'0%', transform:'scale(1.0)'}}/>
+                      </h3>
                   </div>
 
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -131,20 +156,24 @@ const page = () => {
                       <br/>
                       <img src="assets/images/sponsors/tuvrheinland.jpeg" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
                       <img src="assets/images/sponsors/riskory.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/baidu.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <img src="assets/images/sponsors/jane_goodalls_roots.jpeg" alt="" style={{width:'35%', margin: '5%', marginTop:'7%', transform:'scale(1.2)'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/spark_men.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>                    
                     </h3>
                   </div>
 
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'20%'}}>
-                      Bronze <br/>
-                      <img src="" alt="" style={{maxWidth:'500px', marginTop:'7%'}}/>
-                    </h3>
-                  </div>
-
-                  <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                    <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'10%'}}>
-                      Green <br/>
-                      <img src="assets/images/sponsors/carbonnext.jpg" alt="" style={{maxWidth:'35%', marginTop:'7%'}}/>
+                      Bronze 
+                      <br/>
+                      <img src="assets/images/sponsors/hkhs.jpg" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <img src="assets/images/sponsors/greenpoint.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <br/>
+                      <img src="assets/images/sponsors/nerocean.jpg" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <img src="assets/images/sponsors/onechain.png" alt="" style={{width:'35%', margin: '5%', marginTop:'7%'}}/>
+                      <br/>
                     </h3>
                   </div>
                 </div>
