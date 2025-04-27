@@ -87,7 +87,7 @@ const page = () => {
                 </div> <br/><br/>
                 <div className="section-title text-left" id="2025">
                   <h1 className="section-title__title" style={{fontSize: '350%'}}>
-                   <span> 2025 </span> Exhibitors and Sponsors
+                   <span> 2025 </span> Sponsors
                   </h1>
                 </div><br/>
                 
@@ -177,7 +177,12 @@ const page = () => {
                     </h3>
                   </div>
                 </div>
-
+                <div className="section-title text-left" id="2025">
+                  <h1 className="section-title__title" style={{fontSize: '350%'}}>
+                   <span> 2025 </span> Exhibitors
+                   <img src='assets/images/exhibitors/1.png' style={{width: '100vw', paddingTop: '100px'}}/>
+                    </h1>
+                </div><br/>
 
                 
               </div>
