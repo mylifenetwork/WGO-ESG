@@ -20,7 +20,7 @@ const page = () => {
             <div className="section-title text-left">
 
               <h2 className="section-title__title">
-              <span>1</span> Main Stage / <span>3</span> Pavilion Stages / <br/><span>50+</span> Sessions / <span>100+</span> Speakers
+              <span>1</span> Main Stage / <span>1</span> Pavilion Stages / <br/><span>40+</span> Sessions / <span>100+</span> Speakers
               </h2>
             </div>
           </div>
