@@ -906,29 +906,7 @@ export const EventSchedule2 = () => {
             >
               <div className="events-three__tab-btn-content">
               <h4>
-              <br/>The Innovation Stage
-                </h4>
-              </div>
-            </li>
-            <li
-              data-tab="#3rdday"
-              className={`tab-btn ${toggle == "3rdday" ? "active-btn" : ""}`}
-              onClick={() => setToggle("3rdday")}
-            >
-              <div className="events-three__tab-btn-content">
-              <h4>
-              Green Finance &amp; Carbon Neutrality Stage
-                </h4>
-              </div>
-            </li>
-            <li
-              data-tab="#4thdday"
-              className={`tab-btn ${toggle == "4thdday" ? "active-btn" : ""}`}
-              onClick={() => setToggle("4thdday")}
-            >
-              <div className="events-three__tab-btn-content">
-              <h4>
-              <br/>ESG Leadership &amp; Governance Stage
+              <br/>ESG Innovation & Leadership Stage
                 </h4>
               </div>
             </li>
@@ -941,14 +919,14 @@ export const EventSchedule2 = () => {
             >
               <div className="events-three__main-content-box">
                 <ul className="list-unstyled events-three__content-list">
-                  {/* Each 'li' tag is one box  */}
+                  {/* DAY1.1  */}
                   <li className="events-three__content-single">
                   {/* Session Title and timing row */}
                     <div className="events-three__content-right">
                       <div className="events-three__content-right-content">
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
-                              Opening Ceremony & Keynote Address
+                             Opening Ceremony  
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
@@ -960,14 +938,14 @@ export const EventSchedule2 = () => {
                         </div>
                         <div className="events-three__content-right-content-right">
                           <h4 className="events-three__content-right-content-title-two">
-                            Wednesday
+                            Day 1 (6 May)
                           </h4>
                           <div className="events-three__content-right-content-time">
                             <div className="icon">
                               <span className="icon-time" />
                             </div>
                             <div className="text">
-                              <p>10.00 am - 12.00 pm</p>
+                              <p>9.30 am - 9.45 am</p>
                             </div>
                           </div>
                         </div>
@@ -975,43 +953,7 @@ export const EventSchedule2 = () => {
                       {/* Speakers go here */}
                       <div className="events-three__content-left row">
                       {/* Speaker 1 Start*/}
-                      <div className="events-three__content-user col-xl-4 col-lg-4">
-                        <div className="events-three__content-user-img">
-                          <img
-                            src="assets/images/speakers/sangmin_nam.jpeg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                            Dr. Sangmin Nam
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                            Director, Environment and Development Division, United Nations ESCAP
-                          </p>
-                        </div>
-                      </div>
-                      {/* Speaker 1 End*/}
-                      {/* Speaker 2 Start*/}
-                      <div className="events-three__content-user col-xl-4 col-lg-4">
-                        <div className="events-three__content-user-img">
-                          <img
-                            src="assets/images/speakers/kin_sang_cheung.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                           Mr. Kin Sang Cheung
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                          Chairman, World Green Organisation
-                          </p>
-                        </div>
-                      </div>
-                      {/* Speaker 2 End*/}
-                      {/* Speaker 3 Start*/}
-                      <div className="events-three__content-user col-xl-4 col-lg-4">
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
                             src="assets/images/speakers/william_yu.jpg"
@@ -1020,189 +962,213 @@ export const EventSchedule2 = () => {
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                           Dr. William Yu
+                          Dr. William Yu
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                          CEO, World Green Organisation
+                          Founder & Chief Executive Officer, World Green Organisation
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/kin_sang_cheung.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Alex Cheung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chairman of the Board of Governors, World Green Organisation
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.2  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                              Opening Remarks
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>9.45 am - 10.00 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/johnathan_wong.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Jonathan Tsuen Yip Wong
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief of Innovation, Enterprise and Investment, Trade, Investment and Innovation Division, United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.3  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                              Officiating Rituals
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.00 am - 10.30 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/harvey_rouse.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Harvey Rouse
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of the European Union Office to Hong Kong and Macao
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/ken_chiu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Ken Chiu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of Carbon and ESG Products Market, Hong Kong Exchanges and Clearing Limited (HKEX)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/au_kl.png"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Au King Lun
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          MH, Executive Director and Board Member, Financial Services Development Council (FSDC)
                           </p>
                         </div>
                       </div>
                       {/* Speaker 3 End*/}
-                    </div>
-                    </div>
-                  </li>
-                  <li className="events-three__content-single">
-                    <div className="events-three__content-left">
-                      <div className="events-three__content-img">
-                        <img
-                          src="assets/images/resources/events-three-content-img-1-2.jpg"
-                          alt=""
-                        />
-                        <div className="events-three__video-link">
-                          <a
-                            href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
-                            className="video-popup"
-                          >
-                            <div className="events-three__video-icon">
-                              <span className="icon-play" />
-                              <i className="ripple" />
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div className="events-three__content-user">
+                      {/* Speaker 4 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
-                            src="assets/images/resources/events-three-content-user-img-1-2.jpg"
+                            src="assets/images/speakers/guo_peiyuan.jpg"
                             alt=""
                           />
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                            Mitra Smith
+                          Dr. Peiyuan Guo
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                            UX Design
+                          Advisor, United Nations Environment Programme Finance Initiative (UNEP FI)
                           </p>
                         </div>
                       </div>
-                    </div>
-                    <div className="events-three__content-right">
-                      <div className="events-three__content-right-content">
-                        <div className="events-three__content-right-content-left">
-                          <h4 className="events-three__content-right-content-title">
-                            <Link href="/schedule-list">Meeting With Word</Link>
-                          </h4>
-                          <ul className="list-unstyled events-three__content-right-content-list">
-                            <li>
-                              <div className="icon">
-                                <span className="icon-coffee-cup" />
-                              </div>
-                              <div className="text">
-                                <p>Coffee &amp; Snacks</p>
-                              </div>
-                            </li>
-                            <li>
-                              <div className="icon">
-                                <span className="icon-youtube" />
-                              </div>
-                              <div className="text">
-                                <p>Video Streming</p>
-                              </div>
-                            </li>
-                          </ul>
-                        </div>
-                        <div className="events-three__content-right-content-right">
-                          <h4 className="events-three__content-right-content-title-two">
-                            Wednesday
-                          </h4>
-                          <div className="events-three__content-right-content-time">
-                            <div className="icon">
-                              <span className="icon-time" />
-                            </div>
-                            <div className="text">
-                              <p>10.00 am - 12.00 pm</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="events-three__btn-box">
-                        <Link
-                          href="https://esgxchangehk.com/register"
-                          className="about-three__btn thm-btn-two"
-                        >
-                          <span className="fas fa-arrow-circle-right" />
-                          Reserve Your Seat
-                        </Link>
-                      </div>
-                    </div>
-                  </li>
-                  <li className="events-three__content-single">
-                    <div className="events-three__content-left">
-                      <div className="events-three__content-img">
-                        <img
-                          src="assets/images/resources/events-three-content-img-1-3.jpg"
-                          alt=""
-                        />
-                        <div className="events-three__video-link">
-                          <a
-                            href="https://www.youtube.com/watch?v=Get7rqXYrbQ"
-                            className="video-popup"
-                          >
-                            <div className="events-three__video-icon">
-                              <span className="icon-play" />
-                              <i className="ripple" />
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div className="events-three__content-user">
+                      {/* Speaker 4 End*/}
+                      {/* Speaker 5 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
-                            src="assets/images/resources/events-three-content-user-img-1-3.jpg"
+                            src="assets/images/speakers/wilson_tang.png"
                             alt=""
                           />
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                            Kowlant Smith
+                          Mr. Wilson Tang
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                            UX Design
+                          Chief Executive Officer, BOC Group Life Assurance Company Limited (BOC Life)
                           </p>
                         </div>
                       </div>
+                      {/* Speaker 5 End*/}
                     </div>
-                    <div className="events-three__content-right">
-                      <div className="events-three__content-right-content">
-                        <div className="events-three__content-right-content-left">
-                          <h4 className="events-three__content-right-content-title">
-                            <Link href="/schedule-list">
-                              Humble Hill Running Day
-                            </Link>
-                          </h4>
-                          <ul className="list-unstyled events-three__content-right-content-list">
-                            <li>
-                              <div className="icon">
-                                <span className="icon-coffee-cup" />
-                              </div>
-                              <div className="text">
-                                <p>Coffee &amp; Snacks</p>
-                              </div>
-                            </li>
-                            <li>
-                              <div className="icon">
-                                <span className="icon-youtube" />
-                              </div>
-                              <div className="text">
-                                <p>Video Streming</p>
-                              </div>
-                            </li>
-                          </ul>
-                        </div>
-                        <div className="events-three__content-right-content-right">
-                          <h4 className="events-three__content-right-content-title-two">
-                            Wednesday
-                          </h4>
-                          <div className="events-three__content-right-content-time">
-                            <div className="icon">
-                              <span className="icon-time" />
-                            </div>
-                            <div className="text">
-                              <p>10.00 am - 12.00 pm</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="events-three__btn-box">
-                        <Link
-                          href="https://esgxchangehk.com/register"
-                          className="about-three__btn thm-btn-two"
-                        >
-                          <span className="fas fa-arrow-circle-right" />
-                          Reserve Your Seat
-                        </Link>
-                      </div>
                     </div>
                   </li>
                 </ul>
