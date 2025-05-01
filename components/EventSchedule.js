@@ -3808,6 +3808,7 @@ export const EventSchedule2 = () => {
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
                           Climate Youth Leadership Forum: "Combating Energy Poverty: My Journey and the Transformative Power of Solar Energy in Underserved Communities & Campus Net Zero: What Can Students Do On and Beyond Campus?"
+                          </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
                               <div className="text">
