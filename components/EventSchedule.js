@@ -926,7 +926,7 @@ export const EventSchedule2 = () => {
                       <div className="events-three__content-right-content">
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
-                             Opening Ceremony  
+                            Opening Ceremony & Welcome Remarks 
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
@@ -1025,7 +1025,7 @@ export const EventSchedule2 = () => {
                       {/* Speakers go here */}
                       <div className="events-three__content-left row">
                       {/* Speaker 1 Start*/}
-                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
                             src="assets/images/speakers/johnathan_wong.jpg"
@@ -1037,11 +1037,47 @@ export const EventSchedule2 = () => {
                           Mr. Jonathan Tsuen Yip Wong
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                          Chief of Innovation, Enterprise and Investment, Trade, Investment and Innovation Division, United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP)
+                          Chief of Innovation, Enterprise and Investment, Trade, Investment and Innovation Division, UNESCAP
                           </p>
                         </div>
                       </div>
                       {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/joseph_chan.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr Joseph H. L. Chan
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          JP, Under Secretary, Financial Services and the Treasury of Hong Kong
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/diane_wong.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Miss Diane Wong Shuk Han
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          JP, Under Secy for Env & Ecology, Environment and Ecology Bureau
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 3 End*/}
                     </div>
                     </div>
                   </li>
@@ -1052,7 +1088,7 @@ export const EventSchedule2 = () => {
                       <div className="events-three__content-right-content">
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
-                              Officiating Rituals
+                              Officiating Guest Keynote Speech 
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
@@ -1071,7 +1107,7 @@ export const EventSchedule2 = () => {
                               <span className="icon-time" />
                             </div>
                             <div className="text">
-                              <p>10.00 am - 10.30 am</p>
+                              <p>10.15 am - 10.50 am</p>
                             </div>
                           </div>
                         </div>
@@ -1154,20 +1190,2108 @@ export const EventSchedule2 = () => {
                       <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
-                            src="assets/images/speakers/wilson_tang.png"
+                            src="assets/images/speakers/mark_kai.jpg"
                             alt=""
                           />
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                          Mr. Wilson Tang
+                          Mr. Mark Kai
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                          Chief Executive Officer, BOC Group Life Assurance Company Limited (BOC Life)
+                          Chief Financial Officer, BOC Group Life Assurance Company Limited (BOC Life)
                           </p>
                         </div>
                       </div>
                       {/* Speaker 5 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.4  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Innovating for Impact: Driving Sustainable Development through Enterprise and Investment in Asia-Pacific
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.35 am - 10.50 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/johnathan_wong.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Jonathan Tsuen Yip Wong
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief of Innovation, Enterprise and Investment, Trade, Investment and Innovation Division, UNESCAP
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.5  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: The European Green Deal: Opportunities for Asia's Carbon Neutral and Sustainable Future
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.50 am - 11.05 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/harvey_rouse.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Harvey Rouse
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head, European Union Office to Hong Kong and Macao
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.6  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: From Net-Zero to Nature-Positive: Aligning Financial Systems with Planetary Boundaries
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>11.05 am - 11.20 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/guo_peiyuan.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Guo Peiyuan
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Advisor in China, United Nations Environment Programme Finance Initiative (UNEP FI)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.7  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: The Global Baseline and the HK Adoption (Recording)
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>11.20 am - 11.35 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/bing_leng.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Bing Leng
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Member, International Sustainability Standards Board (ISSB)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.8  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Designing for Net-Zero: How Real Estate Developer Can Lead the Climate Transition
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>11.35 am - 11.50 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/patrick_ho.JPG"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Patrick Ho
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of Sustainable Development, Swire Properties Limited
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.9  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: From Crisis to Opportunity Through Innovation: How to Build a Successful Business
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>14.10 pm - 14.35 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/song_hoisee.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Song Hoi-see
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, Plaza Premium Group
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.10  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: ESG-Driven AI Transformation: Lifewood’s Path to one of the World’s Largest Inclusive Data-Collection Centre
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>14.35 pm - 15.00 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/roanld_cheung.png"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Ronald Cheung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, Lifewood Data Technology Limited 
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.11  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                          Panel Discussion: Harnessing Technology for a Circular Economy: Opportunities and Challenges
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>15.00 pm - 15.45 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/toa_charm.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr Toa Charm
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founding Chairman, Data Literacy & AI Association 
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/gloria_yao.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Gloria Lei Yao
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Director, Project Development, The Hong Kong Research Institute of Textiles and Apparel (HKRITA)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/phoebe_leung.JPG"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Phoebe Leung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Senior Manager, Sustainable Development, Swire Properties Limited
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 3 End*/}
+                      {/* Speaker 4 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/calvin_cheng.jpeg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Calvin Cheng
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, Wizpresso 
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 4 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.12  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Development trend of AI industry (Virtual)
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>15.45 pm - 16.00 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/johnathan_lin.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Prof. Jonathan Lin
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          General Partner, Andra Capital
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.13  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: On Care for Our Common Home
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.00 pm - 16.15 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/sun_ta_chien.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Sun Ta-Chien
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Professor, Graduate School of Financial Management, CTBC Business School
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.14  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Building Resilient Communities Through ESG-Driven Life Insurance Ecosystems
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.15 pm - 16.30 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/toni_tse.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr Toni Tse
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of Digital Innovation and Growth, BOC Group Life Assurance Company Limited (BOC Life) 
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.15  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: 
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.30 pm - 16.45 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/kerr_xu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Kerr XU
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief Executive Officer & Co-founder, LaSense Technology Limited
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.16  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: A Sharing on the Development of the National Conservation and Carbon Ecosystem by Malaysia Forest Fund  – How Corporations can benefit
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.45 pm - 17.00 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/dato.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dato’ Shah Redza Hussein
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief Executive Officer, Malaysia Forest Fund
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.17  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Nature Beyond Climate - Market momentum created by the TNFD (Virtual)
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>17.00 pm - 17.15 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/candice_dott.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Candice Dott
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Director of Market Engagement, Taskforce on Nature‑related Financial Disclosures (TNFD)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.18  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: 
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>17.15 pm - 17.55 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          TBC
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          百度飛槳會客廳
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY1.19  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                            Closing Remarks
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 1 (6 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>17.55 pm - 18.00 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/william_yu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. William Yu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, World Green Organisation (WGO)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.1  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                            Opening Ceremony & Welcome Remarks 
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>9.30 am - 9.45 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/william_yu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. William Yu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, World Green Organisation
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/albert_oung.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Albert Oung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          President, World Green Organisation
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.2  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                              Opening Remarks
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>9.45 am - 10.00 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/masato_abe.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Masato Abe
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Economist, United Nations Multi-Country Office for Micronesia, Kolonia, Pohnpei, Federated States of Micronesia
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.3  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                              Officiating Guest Keynote Speech 
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.00 am - 10.20 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/maihar_sham.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Professor Mai-har Sham
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Pro-Vice-Chancellor (Research), The Chinese University of Hong Kong (CUHK)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/allinnettes_go_adigue.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Allinnettes Adigue
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of ASEAN Regional Hub, Global Reporting Initiative (GRI)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/kitikorn.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Kitikorn, Dean
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Faculty of Environment and Resource Studies, Mahidol University
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 3 End*/}
+                      {/* Speaker 4 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/jie_zhou.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Jie Zhou
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of International Engagement, Accelerator and Canopy, Cambridge Institute for Sustainability Leadership (CISL), Cambridge University
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 4 End*/}
+                      {/* Speaker 5 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/christopher_chao.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Prof. Christopher Chao
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Vice President, The Hong Kong Polytechnic University (PolyU)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 5 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.4  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: United Nations’ work in Micronesia
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.20 am - 10.35 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/masato_abe.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Masato Abe
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Economist, United Nations Multi-Country Office for Micronesia, Kolonia, Pohnpei, Federated States of Micronesia
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.5  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Integrating Climate and Social Dimensions: Advancing Resilient Sustainability Reporting through GRI Standards
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.35 am - 10.50 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/allinnettes_go_adigue.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Allinnettes Adigue
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of ASEAN Regional Hub, Global Reporting Initiative (GRI)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.6  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Strengthening Supply Chains through ESG Integration
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>10.50 am - 11.05 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/ryan_foo.jpeg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Ryan Foo
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Senior Technology Manager, TÜV Rheinland Hong Kong Limited
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.7  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Lifewood’s Approach to ESG-Driven AI Talent Development: How Lifewood Maintains Continuous Innovation and Workforce for AI Development
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>11.05 am - 11.20 am</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/roanld_cheung.png"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Ronald Cheung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, Lifewood Data Technology Limited
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.8  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                          Carbon Neutrality Alliance Parallel Session: Multidisciplinary discussion on Sustainability and Governance
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>11.20 am - 12.30 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/kitikorn.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. Kitikorn
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Dean, Faculty of Environment and Resource Studies, Global University Alliance, Carbon Neutrality Campus (CNC)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.9  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                          Panel Discussion: Driving Sustainability through Effective Stakeholder Engagement across Corporate Supply Chains
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>14.20 pm - 15.15 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/jean_sebastien_jacquetin.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Jean-Sebastien Jacquetin
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Managing Partner, Cavendish Investment Corp
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/vivienne_chiu.jpeg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Vivienne Chiu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief Brand and Communications Officer, BOC Group Life Assurance Company Limited (BOC Life)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/felix_lee.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Felix Lee
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of Group Corporate Affairs & Sustainability, The Hong Kong and China Gas Company Ltd (Towngas)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 3 End*/}
+                      {/* Speaker 4 Start*/}
+                      <div className="events-three__content-user col-xl-6 col-lg-6">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Wendy M.Y. Chan
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chairlady, Activities & Events Committee, The Institute of Purchasing & Supply of Hong Kong (IPSHK)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 3 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.10  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Green Infra-Equity Investment
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>15.15 pm - 15.30 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/terry_yung.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Terry Yung
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief Investment Officer, BOC Group Life Assurance Company Limited (BOC Life)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.11  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                          Keynote Presentation: Assessing Transition Plans Credibility to Catalyse Transition Finance
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>15.30 pm - 15.45 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/dennis_wan.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Dennis Wan
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Head of Capital Markets APAC, CDP
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.12  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: EU CBAM and Carbon Pricing Trends in the Asia Pacific
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>15.45 pm - 16.00 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/mei_zi_tan.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Mei Zi Tan
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Manager of International Research and Projects, Carbon Market Institute (CMI)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.13  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: A Smart Way to Net Zero
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.00 pm - 16.15 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/nick_zhong.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Nick Zhong
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief Operating Officer, Smart Zeroing Ltd
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.14  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Beyond Compliance - Climate Transition Plans, Credibility, Transparency and Corporate Reporting
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.15 pm - 16.30 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/ryan_cook.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Ryan Cook
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Program Impact Manager (Sustainable Finance), Climateworks Centre
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.15  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: "Shaping a Greener Future: Strategic Outlook on the Evolution of China’s Carbon Market 中國碳市場發展現況與未來展望 (Virtual)"
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: Mandarin</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.30 pm - 16.45 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/peng_feng.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Peng Feng
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Deputy General Manager, Shanghai Environment and Energy Exchanges
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.16  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Overseas Business Expansion: Unlocking Opportunities in Bahrain (Bahrain Market)
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>16.45 pm - 17.10 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/abduljabbar_abdulkarim.png"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Abduljabbar Abdulkarim
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Chief Executive Officer, Bahrain Green Energy
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.17  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Overseas Business Expansion: Unlocking Opportunities in UAE (Dubai)
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>17.10 pm - 17.30 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/sam_tang.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Mr. Sam Tang
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Managing Partner, Pembroke Capital Partners
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.18  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                           Keynote Presentation: Government Support and Opportunities for Global Partners in Australia’s Net Zero Transition
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>17.30 pm - 17.50 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/jeanne_wang.png"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Ms. Jeanne Wang
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Investment Director, Australian Trade and Investment Commission (Austrade)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
+                    </div>
+                    </div>
+                  </li>
+                  {/* DAY2.19  */}
+                  <li className="events-three__content-single">
+                  {/* Session Title and timing row */}
+                    <div className="events-three__content-right">
+                      <div className="events-three__content-right-content">
+                        <div className="events-three__content-right-content-left">
+                          <h4 className="events-three__content-right-content-title">
+                            Closing Remarks
+                          </h4>
+                          <ul className="list-unstyled events-three__content-right-content-list">
+                            <li>
+                              <div className="text">
+                                <p>Language: English</p>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+                        <div className="events-three__content-right-content-right">
+                          <h4 className="events-three__content-right-content-title-two">
+                            Day 2 (7 May)
+                          </h4>
+                          <div className="events-three__content-right-content-time">
+                            <div className="icon">
+                              <span className="icon-time" />
+                            </div>
+                            <div className="text">
+                              <p>17.55 pm - 18.00 pm</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      {/* Speakers go here */}
+                      <div className="events-three__content-left row">
+                      {/* Speaker 1 Start*/}
+                      <div className="events-three__content-user col-xl-12 col-lg-12">
+                        <div className="events-three__content-user-img">
+                          <img
+                            src="assets/images/speakers/william_yu.jpg"
+                            alt=""
+                          />
+                        </div>
+                        <div className="events-three__content-user-info">
+                          <h4 className="events-three__content-user-name">
+                          Dr. William Yu
+                          </h4>
+                          <p className="events-three__content-user-sub-title">
+                          Founder & Chief Executive Officer, World Green Organisation (WGO)
+                          </p>
+                        </div>
+                      </div>
+                      {/* Speaker 1 End*/}
                     </div>
                     </div>
                   </li>
