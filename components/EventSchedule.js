@@ -3610,24 +3610,6 @@ export const EventSchedule2 = () => {
                       </div>
                       {/* Speakers go here */}
                       <div className="events-three__content-left row">
-                      {/* Speaker 1 Start*/}
-                      <div className="events-three__content-user col-xl-12 col-lg-12">
-                        <div className="events-three__content-user-img">
-                          <img
-                            src="assets/images/speakers/vivienne_chiu.jpeg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                          Ms. Vivienne Chiu
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                          Chief Brand and Communications Officer, BOC Group Life Assurance Company Limited (BOC Life)
-                          </p>
-                        </div>
-                      </div>
-                      {/* Speaker 1 End*/}
                       {/* Speaker 2 Start*/}
                       <div className="events-three__content-user col-xl-12 col-lg-12">
                         <div className="events-three__content-user-img">
