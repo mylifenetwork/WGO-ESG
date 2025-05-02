@@ -727,6 +727,7 @@ ul {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  line-height: 18px;
 }
 
 .main-menu__logo {
@@ -845,6 +846,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
 }
 

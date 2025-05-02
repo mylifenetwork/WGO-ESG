@@ -362,11 +362,11 @@ const Header2 = () => {
           <div className="main-menu__wrapper">
             <div className="main-menu__wrapper-inner">
               <div className="main-menu__left">
-                <div className="main-menu__logo">
+                <div className="main-menu__logo" style={{width:'80%'}}>
                   <a href="/">
-                    <img src="assets/images/resources/header.png" alt="" width='80%' />
+                    <img src="assets/images/resources/header.png" alt="" width='100%' />
                     </a>
-                    {/*<Social/>*/}
+                    <Social/>
                 </div>
               </div>
               <div className="main-menu__right">
