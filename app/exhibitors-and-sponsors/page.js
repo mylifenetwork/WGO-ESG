@@ -91,7 +91,7 @@ const page = () => {
                   </h1>
                 </div><br/>
                 
-                <img src="assets/images/sponsors/all.png" alt="" style={{maxWidth:'1200px'}}/>
+                <img src="assets/images/sponsors/all.png" alt="" style={{maxWidth:'1350px'}}/>
                 {/*<div className="row masonary-layout">
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'10%'}}>
