@@ -886,6 +886,12 @@ export const EventSchedule2 = () => {
             Information Program &amp; Event <br /> <span>Schedule</span>
           </h2>
         </div>
+        <div className="about-two__btn-box" style={{textAlign:'center'}}>
+                    <Link href="hhttps://drive.google.com/file/d/1_rxfRJTz7VgXhk1IkQE-3ZeQcxogI_xb/view?usp=sharing" className="about-two__btn thm-btn-two">
+                      <span className="fas fa-arrow-circle-right" />
+                      Explore Our Brochure
+                    </Link>
+                  </div>
         <div className="events-three__main-tab-box tabs-box">
           <ul className="tab-buttons clearfix list-unstyled">
             <li
@@ -1118,24 +1124,6 @@ export const EventSchedule2 = () => {
                       <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
-                            src="assets/images/speakers/harvey_rouse.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div className="events-three__content-user-info">
-                          <h4 className="events-three__content-user-name">
-                          Mr. Harvey Rouse
-                          </h4>
-                          <p className="events-three__content-user-sub-title">
-                          Head of the European Union Office to Hong Kong and Macao
-                          </p>
-                        </div>
-                      </div>
-                      {/* Speaker 1 End*/}
-                      {/* Speaker 2 Start*/}
-                      <div className="events-three__content-user col-xl-6 col-lg-6">
-                        <div className="events-three__content-user-img">
-                          <img
                             src="assets/images/speakers/ken_chiu.jpg"
                             alt=""
                           />
@@ -1149,8 +1137,8 @@ export const EventSchedule2 = () => {
                           </p>
                         </div>
                       </div>
-                      {/* Speaker 2 End*/}
-                      {/* Speaker 3 Start*/}
+                      {/* Speaker 1 End*/}
+                      {/* Speaker 2 Start*/}
                       <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
@@ -1167,8 +1155,8 @@ export const EventSchedule2 = () => {
                           </p>
                         </div>
                       </div>
-                      {/* Speaker 3 End*/}
-                      {/* Speaker 4 Start*/}
+                      {/* Speaker 2 End*/}
+                      {/* Speaker 3 Start*/}
                       <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
@@ -1185,8 +1173,8 @@ export const EventSchedule2 = () => {
                           </p>
                         </div>
                       </div>
-                      {/* Speaker 4 End*/}
-                      {/* Speaker 5 Start*/}
+                      {/* Speaker 3 End*/}
+                      {/* Speaker 4 Start*/}
                       <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
@@ -1203,7 +1191,7 @@ export const EventSchedule2 = () => {
                           </p>
                         </div>
                       </div>
-                      {/* Speaker 5 End*/}
+                      {/* Speaker 4 End*/}
                     </div>
                     </div>
                   </li>
@@ -3627,7 +3615,7 @@ export const EventSchedule2 = () => {
                       <div className="events-three__content-right-content">
                         <div className="events-three__content-right-content-left">
                           <h4 className="events-three__content-right-content-title">
-                          Documentary Screening Session: Wang Kelian: Uncovering the Forest, Remembering the Forgotten
+                          Documentary Screening Session: Engaging Local Communities for a Sustainable Future - two case studies from Malaysia
                           </h4>
                           <ul className="list-unstyled events-three__content-right-content-list">
                             <li>
