@@ -91,7 +91,8 @@ const page = () => {
                   </h1>
                 </div><br/>
                 
-                <div className="row masonary-layout">
+                <img src="assets/images/sponsors/all.png" alt="" style={{maxWidth:'1200px'}}/>
+                {/*<div className="row masonary-layout">
                   <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <h3 style={{fontWeight: '400', textAlign: 'center', marginTop:'10%'}}>
                       Supreme Diamond 
@@ -176,11 +177,11 @@ const page = () => {
                       <br/>
                     </h3>
                   </div>
-                </div>
+                </div>*/}
                 <div className="section-title text-left" id="2025">
                   <h1 className="section-title__title" style={{fontSize: '350%'}}>
                    <span> 2025 </span> Exhibitors
-                   <img src='assets/images/exhibitors/1.png' style={{width: '100vw', paddingTop: '100px'}}/>
+                   <img src='assets/images/exhibitors/1.png' style={{width: '100vw', paddingTop: '90px'}}/>
                     </h1>
                 </div><br/>
 
