@@ -25,9 +25,13 @@ const page = () => {
             </div>
           </div>
         </div>
+              <div className="about-two__btn-box" style={{textAlign:'center'}}>
+                    <Link href="https://drive.google.com/file/d/1_rxfRJTz7VgXhk1IkQE-3ZeQcxogI_xb/view?usp=sharing" className="about-two__btn thm-btn-two">
+                      <span className="fas fa-arrow-circle-right" />
+                      Explore Our Brochure
+                    </Link>
+                  </div>
       </section>
-
-
       <EventSchedule2 />
     </EnvensLayouts>
   );

@@ -886,12 +886,6 @@ export const EventSchedule2 = () => {
             Information Program &amp; Event <br /> <span>Schedule</span>
           </h2>
         </div>
-        <div className="about-two__btn-box" style={{textAlign:'center'}}>
-                    <Link href="hhttps://drive.google.com/file/d/1_rxfRJTz7VgXhk1IkQE-3ZeQcxogI_xb/view?usp=sharing" className="about-two__btn thm-btn-two">
-                      <span className="fas fa-arrow-circle-right" />
-                      Explore Our Brochure
-                    </Link>
-                  </div>
         <div className="events-three__main-tab-box tabs-box">
           <ul className="tab-buttons clearfix list-unstyled">
             <li
