@@ -1610,7 +1610,7 @@ export const EventSchedule2 = () => {
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                          Dr Toa Charm
+                          Dr. Toa Charm
                           </h4>
                           <p className="events-three__content-user-sub-title">
                           Founding Chairman, Data Literacy & AI Association 
@@ -1826,7 +1826,7 @@ export const EventSchedule2 = () => {
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                          Mr Toni Tse
+                          Mr. Toni Tse
                           </h4>
                           <p className="events-three__content-user-sub-title">
                           Head of Digital Innovation and Growth, BOC Group Life Assurance Company Limited (BOC Life) 
@@ -2312,10 +2312,10 @@ export const EventSchedule2 = () => {
                         </div>
                         <div className="events-three__content-user-info">
                           <h4 className="events-three__content-user-name">
-                          Dr. Kitikorn, Dean
+                          Dr. Kitikorn Charmondusit
                           </h4>
                           <p className="events-three__content-user-sub-title">
-                          Faculty of Environment and Resource Studies, Mahidol University
+                          Dean, Faculty of Environment and Resource Studies, Mahidol University
                           </p>
                         </div>
                       </div>
@@ -2720,7 +2720,7 @@ export const EventSchedule2 = () => {
                       <div className="events-three__content-user col-xl-6 col-lg-6">
                         <div className="events-three__content-user-img">
                           <img
-                            src="assets/images/speakers/.jpg"
+                            src="assets/images/speakers/wendy_chan.png"
                             alt=""
                           />
                         </div>
