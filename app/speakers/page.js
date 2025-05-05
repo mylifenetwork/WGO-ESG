@@ -9,7 +9,7 @@ const page = () => {
       <section className="speaker-page">
         <div className="container">
           <div className="row">
-            {/*Speaker Page Single Start*/}
+            {/*Speaker 1 Page Single Start*/}
             <div
               className="col-xl-4 col-lg-4 wow fadeInLeft"
               data-wow-delay="100ms"
@@ -17,11 +17,77 @@ const page = () => {
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
-                    <a href=""><img src="assets/images/speakers/allinnettes_go_adigue.jpg" style={{height: '418px'}} alt /></a>
+                    <a href=""><img src="assets/images/speakers/abduljabbar_abdulkarim.png" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
+                  <h3>
+                    <Link href="">Mr. Abduljabbar Abdulkarim</Link>
+                  </h3>
+                  <p>Chief Executive Officer</p>
+                  <p>Bahrain Green Energy</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker 1 Page Single End*/}
+            {/*Speaker 2 Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/albert_oung.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
+                  <h3>
+                    <Link href="">Mr. Albert Oung</Link>
+                  </h3>
+                  <p>President</p>
+                  <p>World Green Organisation</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker 2 Page Single End*/}
+            {/*Speaker 3 Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href="/speaker-single-alex-cheung"><img src="assets/images/speakers/kin_sang_cheung.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
+                  <h3>
+                    <Link href="/speaker-single-alex-cheung">Mr. Alex Cheung</Link>
+                  </h3>
+                  <p>Chairman of the Board of Governors</p>
+                  <p>World Green Organisation</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker 3 Page Single End*/}
+            {/*Speaker 4 Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href="https://esgxchangehk.com/speaker-single-dr-allinnettes-go-adigue"><img src="assets/images/speakers/allinnettes_go_adigue.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="https://esgxchangehk.com/speaker-single-dr-allinnettes-go-adigue">Dr. Allinnettes Go Adigue</Link>
                   </h3>
@@ -30,7 +96,7 @@ const page = () => {
                 </div>
               </div>
             </div>
-            {/*Speaker Page Single End*/}
+            {/*Speaker Page 4 Single End*/}
             {/*Speaker Page Single Start*/}
             <div
               className="col-xl-4 col-lg-4 wow fadeInLeft"
@@ -43,7 +109,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Ms. Candice Dott</Link>
                   </h3>
@@ -65,7 +131,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Ms. Cloris Cai</Link>
                   </h3>
@@ -88,7 +154,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Dennis Wan</Link>
                   </h3>
@@ -110,7 +176,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Dr. Gloria Lei Yao</Link>
                   </h3>
@@ -132,7 +198,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Dr. Guo Peiyuan</Link>
                   </h3>
@@ -154,7 +220,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Jean-Sébastien Jacquetin</Link>
                   </h3>
@@ -176,7 +242,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Prof. Johnathan Lin</Link>
                   </h3>
@@ -194,33 +260,11 @@ const page = () => {
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
-                    <a href=""><img src="assets/images/speakers/kin_sang_cheung.jpg" style={{height: '418px'}} alt /></a>
-                  </div>
-                  <div className="speaker-page__img-shape" />
-                </div>
-                <div className="speaker-page__content">
-                  <h3>
-                    <Link href="">Mr. Kin Sang Cheung</Link>
-                  </h3>
-                  <p>Chairman, Board of Governors</p>
-                  <p>World Green Organisation</p>
-                </div>
-              </div>
-            </div>
-            {/*Speaker Page Single End*/}
-            {/*Speaker Page Single Start*/}
-            <div
-              className="col-xl-4 col-lg-4 wow fadeInLeft"
-              data-wow-delay="100ms"
-            >
-              <div className="speaker-page__single">
-                <div className="speaker-page__img-box">
-                  <div className="speaker-page__img">
                     <a href=""><img src="assets/images/speakers/mark_kai.jpg" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Mark Kai Min-chung</Link>
                   </h3>
@@ -242,7 +286,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Ms. Mei Zi Tan</Link>
                   </h3>
@@ -265,7 +309,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Peng Feng</Link>
                   </h3>
@@ -287,7 +331,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Ryan Cook</Link>
                   </h3>
@@ -309,7 +353,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Samson Leong</Link>
                   </h3>
@@ -331,7 +375,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Dr. Sun Ta Chien</Link>
                   </h3>
@@ -353,7 +397,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Terry Yung</Link>
                   </h3>
@@ -375,7 +419,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Dr. Toa Charm</Link>
                   </h3>
@@ -398,7 +442,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Mr. Toni Tse</Link>
                   </h3>
@@ -420,11 +464,11 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Ms. Vivienne Chiu</Link>
                   </h3>
-                  <p>Chief Brand and Communications Officer</p>
+                  <p>Chief Brand & Communications Officer </p>
                   <p>BOC Group Life Assurance Company Limited</p>
                 </div>
               </div>
@@ -442,7 +486,7 @@ const page = () => {
                   </div>
                   <div className="speaker-page__img-shape" />
                 </div>
-                <div className="speaker-page__content">
+                <div className="speaker-page__content" style={{fontSize:'85%'}}>
                   <h3>
                     <Link href="">Dr. William Yu</Link>
                   </h3>

@@ -19,7 +19,7 @@
 --------------------------------------------------------------*/
 
 :root {
-  --envens-font: "DM Sans", sans-serif;
+  --envens-font: "DM Sans", sans-serif, "Times New Roman";
   --envens-font-two: "Lora", serif;
   --envens-font-three: "reeyregular";
   --envens-gray: #878c8f;
