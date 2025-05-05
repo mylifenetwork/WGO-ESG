@@ -216,6 +216,28 @@ const page = () => {
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/mark_kai.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Mr. Mark Kai Min-chung</Link>
+                  </h3>
+                  <p>Chief Financial Officer</p>
+                  <p>BOC Group Life Assurance Company Limited</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
                     <a href=""><img src="assets/images/speakers/mei_zi_tan.jpg" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
@@ -327,6 +349,28 @@ const page = () => {
               <div className="speaker-page__single">
                 <div className="speaker-page__img-box">
                   <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/terry_yung.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Mr. Terry Yung</Link>
+                  </h3>
+                  <p>Chief Investment Officer</p>
+                  <p>BOC Group Life Assurance Company Limited</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
                     <a href=""><img src="assets/images/speakers/toa_charm.jpg" style={{height: '418px'}} alt /></a>
                   </div>
                   <div className="speaker-page__img-shape" />
@@ -338,6 +382,50 @@ const page = () => {
                   <p>Associate Professor</p>
                   <p>Practice in Innovation and Technology</p>
                   <p>The Chinese University of Hong Kong</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/toni_tse.jpg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Mr. Toni Tse</Link>
+                  </h3>
+                  <p>Head of Digital Innovation and Growth</p>
+                  <p>BOC Group Life Assurance Company Limited</p>
+                </div>
+              </div>
+            </div>
+            {/*Speaker Page Single End*/}
+            {/*Speaker Page Single Start*/}
+            <div
+              className="col-xl-4 col-lg-4 wow fadeInLeft"
+              data-wow-delay="100ms"
+            >
+              <div className="speaker-page__single">
+                <div className="speaker-page__img-box">
+                  <div className="speaker-page__img">
+                    <a href=""><img src="assets/images/speakers/vivienne_chiu.jpeg" style={{height: '418px'}} alt /></a>
+                  </div>
+                  <div className="speaker-page__img-shape" />
+                </div>
+                <div className="speaker-page__content">
+                  <h3>
+                    <Link href="">Ms. Vivienne Chiu</Link>
+                  </h3>
+                  <p>Chief Brand and Communications Officer</p>
+                  <p>BOC Group Life Assurance Company Limited</p>
                 </div>
               </div>
             </div>
