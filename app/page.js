@@ -120,7 +120,7 @@ const page = () => {
               </div>
               <Link href="">
                 <img
-                  src="assets/images/logos/Organiser Logo_WGO.png"
+                  src="assets/images/logos/Organiser Logo_WGO_new.png"
                   alt=""
                   height='150px'
                 />
